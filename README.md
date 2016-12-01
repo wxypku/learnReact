@@ -1,2 +1,2 @@
 # learnReact
-react
+react+webpack+es6
